@@ -1,0 +1,36 @@
+body{
+    display: block;
+    margin: 8px;
+    text-align: center;
+}
+.imageBlock {
+    padding: 15px;
+    padding-bottom: 5px;
+}
+div{
+    display: block;
+}
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: brown;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  p{
+    font-size: larger;
+    padding: 15px;
+  }
